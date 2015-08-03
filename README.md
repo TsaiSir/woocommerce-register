@@ -1,2 +1,2 @@
 # woocommerce-register
-Build a woocommerce register
+Build a user friendly woocommerce register.
